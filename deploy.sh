@@ -1,2 +1,3 @@
+Developers are at work
 Application  is ready to be deployed to the development environment.
-deployment must have been reviewed by managers before deployment
+deployment must be reviewed by managers before deployment
